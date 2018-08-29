@@ -11,7 +11,7 @@ class SerchInRotatedArray
         if (l > h) 
             return -1;
        
-        int mid = (l+h)/2;
+        int mid =  l + (h -l )/2;
         if (arr[mid] == key)
             return mid;
        

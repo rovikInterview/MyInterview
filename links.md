@@ -1,5 +1,9 @@
 * links
 
+i just got a developer job at Facebook. Here’s how I prepped for my interviews.
+https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af
+
+
 https://github.com/rovikInterview/interviews/blob/master/LeetCode
 
 
